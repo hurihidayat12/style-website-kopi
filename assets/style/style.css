@@ -1,0 +1,199 @@
+*  {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.navbar {
+    background:  #C499BA;
+    box-shadow: 2px 2px 1px 2px black;   
+}
+
+.navbar h1 {
+    color: #fff;
+    text-align: center;
+    padding: 2rem;   
+    font-size: 2.2rem;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 7px #111111;
+}
+
+.navbar ul {
+    background: #816797;
+    display: flex;
+}
+
+.navbar p{
+    margin: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1.6rem;
+    color : #fff;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: -3px -1px #666666;
+    text-indent: 2.2em;
+    word-spacing: 3px;
+
+}
+
+.navbar ul li {
+    font-size: 1.4rem;
+    color: #ffff;
+    margin-left: 3rem;
+    padding: 1rem 0;
+    list-style-type: none;
+}
+
+ul li:hover {
+    font-size: 1.4rem;
+    color: black;
+    margin-left: 3rem;
+    padding: 1rem 1rem;
+    list-style-type: none;
+    border: 2px solid black;  
+    border-radius: 7px;
+}
+
+.image {
+    width: 100%;
+    height: 70vh;
+    align-item: center;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+.content1 {
+    background-color: #fff;
+    margin: 2.5rem;
+    padding:2rem;
+    box-shadow: 5px 5px 10px 5px #ccc;   
+}
+
+.content1 h2 {
+    font-size: 2rem;
+    color: purple;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.content1 p {
+    font-size: 18px;
+    line-height: 29px;
+    margin-top: 1rem;
+    text-align: justify;
+    text-indent: 2.2em;
+    word-spacing: 3px;
+}
+
+.content2 {
+    background-color: #fff;
+    margin: 2.5rem;
+    padding:2rem;
+    box-shadow: 5px 5px 10px 5px #ccc;   
+}
+
+.content2 h2 {
+    font-size: 2rem;
+    color: purple;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.content2 p {
+    font-size: 18px;
+    line-height: 29px;
+    margin-top: 1rem;
+    text-align: justify;
+    text-indent: 2.2em;
+    word-spacing: 3px;
+}
+
+.content3 {
+    background-color: #fff;
+    margin: 2.5rem;
+    padding:2rem;
+    box-shadow: 5px 5px 10px 5px #ccc;   
+}
+
+.content3 h2 {
+    font-size: 2rem;
+    color: purple;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.content3 h3 {
+    font-size: 1.3rem;
+    color: purple;
+    padding: 1rem 0;
+    text-transform: uppercase;
+}
+
+.content3 p {
+    font-size: 18px;
+    line-height: 29px;
+    margin-top: 1rem;
+    text-align: justify;
+    text-indent: 2.2em;
+    word-spacing: 3px;  
+}
+
+.info {
+    background-color: #fff;
+    margin: 2.5rem;
+    padding:2rem;
+    box-shadow: 5px 5px 10px 5px #ccc;   
+}
+
+.info .lambang {
+    text-align: center;
+}
+
+.info  img {
+    width: 300px;
+    padding: 1rem 0;
+}
+
+.info .lambang h2 {
+    font-size: 2rem;
+    color: purple;
+    padding-top: 1rem;
+}
+
+.info .lambang h5 {
+    font-size: 1rem;
+    padding-top: 1.6rem;
+}
+
+.keterangan h3{
+    padding : .8rem;
+    color:  purple;
+}
+
+.keterangan span {
+    background-color: violet;
+    font-weight: bolder;
+    padding-top: .5rem;
+}
+
+.info .keterangan table td {
+    padding-left: .2rem;
+    padding-bottom: .3rem;
+}
+
+footer {
+    color: #fff;
+    background:  #C499BA;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 3rem;
+    font-size: 1.4rem;
+    box-shadow: 15px 8px 10px 5px black;   
+}
+
+.footer h5 {
+    text-shadow: 2px 2px 7px #111111;
+
+}

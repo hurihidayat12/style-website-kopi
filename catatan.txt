@@ -1,0 +1,63 @@
+      /* membuat costume rata kiri atas kanan = text-align  */
+     p  {
+        text-align: justify;
+    }  
+    /* <!-- menentukan jarak atas dan bawah tulisan = line-height
+     p {
+        line-height: 2;
+    }
+
+    p {
+        line-height : 2%;
+    }
+
+    p {
+        line-height: 2em;
+    }  --> */
+
+
+    /* <!-- menentukan jarak untuk memulai paragraf text = text-indent 
+     p#first {
+        text-indent: 2em;
+     }
+      
+     p#second {
+        text-indent: 25%;
+     }
+      
+     p#third {
+        text-indent: -35px;
+     } --> */
+/* 
+
+
+
+/* Nilai Properti                              Fungsi
+text-decoration: underline      = Memberikan garis bawah (underline) pada teks
+
+text-decoration: overline       = Memberikan garis atas (overline) pada teks
+
+text-decoration: line-through   = Memberikan efek tulisan dicoret (strikethrough)
+
+text-decoration: none           = Menghilangkan dekorasi teks yang ada pada elemen */
+
+
+/* Nilai Properti                              Fungsi
+
+text-transform: none        =   Teks yang ditampilkan sama seperti yang dituliskan
+
+text-transform: capitalize  =   Membuat huruf pertama besar pada tiap katanya
+
+text-transform: lowercase   =   Membuat seluruh teks menggunakan huruf kecil
+
+Text-transform: uppercase   =   Membuat seluruh teks menggunakan huruf besar */
+
+
+/* mengatur antar jarak kata */
+p#letter {
+   letter-spacing: 4px;
+}
+/* mengatur jarak antar huruf */
+p#word {
+   word-spacing: 1.5em;
+}
